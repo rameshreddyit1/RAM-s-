@@ -1,0 +1,6 @@
+1,driChocolates,100
+2,Milk,50
+3,Sampoo,100
+4,Bread,40
+,,0
+,,0

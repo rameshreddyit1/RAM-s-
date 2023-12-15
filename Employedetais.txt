@@ -1,0 +1,4 @@
+Id,Fname,Lname,Gender,Sal
+1,ram,D,M,20000
+2,Ramya,M,F,15000
+3,divakar,D,M,35000
